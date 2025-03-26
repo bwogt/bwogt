@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a backend developer with over two years of professional experience, working daily with PHP, Laravel, MySQL, and automated testing using PHPUnit, as well as best practices for code versioning. I hold a degree in Internet Systems Technology from UTFPR (Federal University of Technology – Paraná) and focus on creating efficient solutions tailored to real client needs.
 
-For my Graduation Project (TCC), I developed “Ta Safe: A System for Mobile Phone Traceability,” exploring advanced techniques such as Web Crawling, Fuzzy Matching, OCR (Optical Character Recognition), and data processing to validate and confirm device ownership through electronic invoices (NF-e). This project enhanced my skills in data handling and developing intelligent solutions for complex challenges.
+For my Graduation Project, I developed “Ta Safe: A System for Mobile Phone Traceability,” exploring advanced techniques such as Web Crawling, Fuzzy Matching, OCR (Optical Character Recognition), and data processing to validate and confirm device ownership through electronic invoices (NF-e). This project enhanced my skills in data handling and developing intelligent solutions for complex challenges.
 
 The full paper is available for reading by [clicking here](https://repositorio.utfpr.edu.br/jspui/bitstream/1/34098/1/sistemarastreabilidadecelular.pdf)
 
