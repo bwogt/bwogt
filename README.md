@@ -35,6 +35,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=bwogt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bwogt&show_icons=true&theme=dark)
 ![](https://nirzak-streak-stats.vercel.app/?user=bwogt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bwogt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
