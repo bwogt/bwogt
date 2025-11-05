@@ -1,5 +1,11 @@
 # :jack_o_lantern: About Me
-I am a backend developer with over two years of professional experience, working daily with PHP, Laravel, MySQL, and automated testing using PHPUnit, as well as best practices for code versioning. I hold a degree in Internet Systems Technology from UTFPR (Federal University of Technology – Paraná) and focus on creating efficient solutions tailored to real client needs.<br><br>For my Graduation Project, I developed “Tá Safe: System for Cell Phone Traceability”, exploring advanced techniques such as Web Crawling, Fuzzy Matching, OCR (Optical Character Recognition), and data processing to validate and confirm device ownership through electronic invoices (NF-e). This project enhanced my skills in data handling and developing intelligent solutions for complex challenges.<br><br>The full paper is available for reading by [clicking here.](https://repositorio.utfpr.edu.br/jspui/bitstream/1/34098/1/sistemarastreabilidadecelular.pdf)
+👨‍💻 I’m a backend developer with over 2 years of professional experience, working daily with PHP, Laravel, MySQL, Docker, Git, and automated testing using PHPUnit. I focus on building performant, secure, and sustainable solutions, following clean code principles and scalable architecture.
+
+🎓 I hold a degree in Internet Systems Technology from UTFPR. For my final project, I developed “Tá Safe: A System for Mobile Phone Traceability,” exploring techniques such as Web Scraping, Fuzzy Matching, OCR (Optical Character Recognition), and data processing to validate mobile device ownership through electronic invoices (NF-e). This project strengthened my ability to apply technology to solve real-world problems by leveraging data analysis and processing in complex scenarios.
+
+🧩 Over the past few years, I’ve worked on everything from building MVPs to consolidating production platforms, participating in architectural decisions, code reviews, and feature integrations. This journey reinforced my belief that technical quality and teamwork are key to creating meaningful impact.
+
+🚀 I’m looking for opportunities to grow as a backend developer, while remaining open to full-stack roles, in environments that value best practices, continuous learning, and purpose-driven software development.
 
 
 ## 🌐 Socials
