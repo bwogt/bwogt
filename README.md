@@ -7,7 +7,6 @@
 
 🚀 I’m looking for opportunities to grow as a backend developer, while remaining open to full-stack roles, in environments that value best practices, continuous learning, and purpose-driven software development.
 
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunowogt) 
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/bwogt) 
@@ -36,7 +35,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=bwogt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bwogt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bwogt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bwogt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
