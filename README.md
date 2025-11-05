@@ -13,7 +13,7 @@
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/bwogt) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bwogt.dev@gmail.com) 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,7 +35,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bwogt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=bwogt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bwogt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
