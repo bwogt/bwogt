@@ -31,9 +31,6 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bwogt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bwogt&show_icons=true&theme=dark)
 ![](https://nirzak-streak-stats.vercel.app/?user=bwogt&theme=dark&hide_border=false)<br/>
