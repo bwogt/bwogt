@@ -1,11 +1,11 @@
 # :jack_o_lantern: About Me
-👨‍💻 I’m a backend developer with over 2 years of professional experience, working daily with PHP, Laravel, MySQL, Docker, Git, and automated testing using PHPUnit. I focus on building performant, secure, and sustainable solutions, following clean code principles and scalable architecture.
+👨‍💻 I’m a backend developer with experience in PHP, Laravel, MySQL, Docker, Git, and automated testing with PHPUnit. I focus on building scalable, well-organized solutions, with strong attention to architecture, requirements, and development best practices.
 
-🎓 I hold a degree in Internet Systems Technology from UTFPR. For my final project, I developed “Tá Safe: A System for Mobile Phone Traceability,” exploring techniques such as Web Scraping, Fuzzy Matching, OCR (Optical Character Recognition), and data processing to validate mobile device ownership through electronic invoices (NF-e). This project strengthened my ability to apply technology to solve real-world problems by leveraging data analysis and processing in complex scenarios.
+🎓 I hold a degree in Internet Systems Technology from UTFPR (Federal University of Technology – Paraná). For my final graduation project, I developed “Tá Safe: Mobile Phone Traceability System,” applying techniques such as web scraping, fuzzy matching, OCR, and data processing to validate mobile device ownership through electronic invoices (NF-e).
 
-🧩 Over the past few years, I’ve worked on everything from building MVPs to consolidating production platforms, participating in architectural decisions, code reviews, and feature integrations. This journey reinforced my belief that technical quality and teamwork are key to creating meaningful impact.
+🧩 In recent years, I’ve been involved from MVP creation to the consolidation of a SaaS platform used by multiple healthcare institutions. I contributed to technical decision-making, structural refactoring, implementation of automated tests, and the evolution of complex business rules.
 
-🚀 I’m looking for opportunities to grow as a backend developer, while remaining open to full-stack roles, in environments that value best practices, continuous learning, and purpose-driven software development.
+🚀 I’m seeking opportunities as a backend developer, with openness to working in a full-stack role as well. I’m looking for environments where I can contribute to technical organization, take ownership, and help evolve systems in a structured and sustainable way.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunowogt) 
